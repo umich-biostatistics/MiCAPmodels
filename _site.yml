@@ -1,0 +1,8 @@
+name: "MiCAPmodels.org"
+navbar:
+  title: "MiCAPmodels"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
