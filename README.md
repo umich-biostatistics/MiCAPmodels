@@ -2,5 +2,5 @@ MiCAPmodels website
 
 To render the site, use
 ```{r}
-rmarkdown::render_site()
+rmarkdown::render_site("MiCAP Models.Rmd")
 ```
