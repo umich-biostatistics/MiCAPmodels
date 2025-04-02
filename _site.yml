@@ -1,5 +1,4 @@
 name: "MiCAPmodels.org"
-output_dir: "_site"
 navbar:
   title: "MiCAPmodels"
   left:
