@@ -3,7 +3,7 @@ title: "MiCAP Models"
 # author: "Jessica Aldous"
 # date: "2025-02-03"
 author:  starcap.app@umich.edu
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
